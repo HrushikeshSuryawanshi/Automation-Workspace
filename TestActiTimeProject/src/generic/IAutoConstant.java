@@ -12,6 +12,5 @@ public interface IAutoConstant {
 	String GECKO_PATH="./drivers/geckodriver.exe";
 	
 	String SCREENSHOT_PATH="./screenshots/";
-	
 
 }
