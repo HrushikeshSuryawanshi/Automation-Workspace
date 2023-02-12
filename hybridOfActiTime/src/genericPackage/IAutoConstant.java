@@ -12,6 +12,8 @@ public interface IAutoConstant {
 	
 	String EXCEL_PATH= "./data/ActiTimeTestData.xlsx";
     String PROP_PATH= "./data/config.properties";
+    
+    String SCREENSHOT_PATH="./screenshots/";
 
 
 }
